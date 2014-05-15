@@ -1,0 +1,6 @@
+Remove Characters - c++ medium Code Eval challenge
+
+Given a string and a set of characters, remove any occurence of the characters in the set
+from the string. Trim leading and trailing blanks. Print the modified string.
+
+{string}, {set}
